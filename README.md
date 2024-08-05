@@ -16,4 +16,4 @@
 ### Tabla de posiciones y estadisticas de los jugadores
 ![image](https://github.com/user-attachments/assets/357cc2ba-dc99-409f-8eb4-5423b13e5362)
 ![image](https://github.com/user-attachments/assets/fdb3c114-4a58-4a0e-b0a7-7821a0548c87)
-
+- Para lograr estas tablas use la libreria de python "from tabulate import tabulate" esta libreria nos permite convertir datos y pasarlos a una tabla y poder tenerlos de una mejor vista, especial para cuando se ejecute un programa en consola es por ello que me decidi a usar dicha libreria
