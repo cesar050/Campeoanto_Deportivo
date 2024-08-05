@@ -13,4 +13,7 @@
 - Comprobacion de los equipos juegan de local y de visita
 ![image](https://github.com/user-attachments/assets/b3fa18e5-8c61-474f-b6ff-d3709f4daed3)
 ![image](https://github.com/user-attachments/assets/1a52065e-ea6d-482f-9d53-fd65c238ed42)
+### Tabla de posiciones y estadisticas de los jugadores
+![image](https://github.com/user-attachments/assets/357cc2ba-dc99-409f-8eb4-5423b13e5362)
+![image](https://github.com/user-attachments/assets/fdb3c114-4a58-4a0e-b0a7-7821a0548c87)
 
